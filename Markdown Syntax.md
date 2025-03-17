@@ -1,5 +1,6 @@
-Click here for a complete guide: [[https://www.markdownguide.org/basic-syntax/]]
+[Markdown Guide Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
+___
 ## Basic Syntax
 # # This is a Heading
 ### ### This is a Sub Heading
@@ -7,7 +8,9 @@ Click here for a complete guide: [[https://www.markdownguide.org/basic-syntax/]]
 _this is italic text_
 **this is bold**
 `[[this is a link]]`
-`[alternative link](https://duckduckgo.com).`
+`[external link](https://duckduckgo.com).`
+
+___
 ## Quotes
 
 >  this is a block quote.
@@ -15,6 +18,8 @@ _this is italic text_
 > You can also nest these
 > > and run them over
 > > multiple lines!
+
+___
 ## Lists
 
 For lists use "1.", "2.", ...
@@ -29,6 +34,8 @@ or use " - " or " + " or " * " for bullet points
 - work
 * like
 * this
+
+___
 ## Code
 
 For code blocks use four spaces or on tab:
@@ -41,21 +48,16 @@ For code blocks use four spaces or on tab:
 
 For words or phrases as code use backticks:
 `let var = 10`
-## Rules
-
-Use three `***`
-
-***
-
-Or three `---`
-
----
-
-Or underscores `_` on a line by themselves
 
 ___
+## Rules
 
+Use three `***`, --- or ___  for a horizontal rule.
+
+___
 ## URLs and Email Addresses
 <https://www.markdownguide.org>
 <fake@example.com>
+
+___
 
