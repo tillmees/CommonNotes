@@ -24,4 +24,6 @@ Clone a Git repository from an URL.
 git clone [url]
 ```
 
+## .gitignore
 
+[[Python .gitignore]] Template
