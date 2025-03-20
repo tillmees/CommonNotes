@@ -9,6 +9,7 @@ _this is italic text_
 **this is bold**
 `[[this is a link]]`
 `[external link](https://duckduckgo.com).`
+~~this is striked through~~
 
 ___
 ## Quotes
