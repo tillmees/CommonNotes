@@ -61,4 +61,7 @@ ___
 <fake@example.com>
 
 ___
+## Math
+
+This expression uses `$` to display a dollar sign: $\sqrt{\$4}$
 

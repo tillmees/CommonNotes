@@ -11,17 +11,28 @@
             "id": "8ff3d9661afe1b42",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "28a13cb410d216a6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Precision & Recall.md",
+                "file": "Machine Learning Metrics and Losses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Precision & Recall"
+              "title": "Machine Learning Metrics and Losses"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,13 +177,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ff3d9661afe1b42",
+  "active": "28a13cb410d216a6",
   "lastOpenFiles": [
-    "Markdown Syntax.md",
+    "Machine Learning Metrics and Losses.md",
+    "L1 Loss (MAE - Mean Absolute Error).md",
+    "Oh shit, Git!.md",
+    "L2 Loss (MSE - Mean Squared Error).md",
+    "Untitled.canvas",
     "Precision & Recall.md",
+    "Markdown Syntax.md",
+    "Accuracy.md",
+    "F1 Score.md",
+    "Per Class & Macro- & Micro-Averaged Metrics.md",
     "Attachments",
     "Attachments/precision_recall.png",
-    "Oh shit, Git!.md",
     "Git Cheatsheet.md",
     "Python .gitignore.md",
     "Daily Notes/2025-03-18.md",
